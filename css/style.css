@@ -20,6 +20,12 @@ a:hover{
 #links{
     display: none;
 }
+#content{
+    margin-top: 85px;
+}
+#contact{
+    margin-top: 125px;
+}
 #contact img{
     height: 40px;
     margin-right: 50px;
@@ -42,15 +48,13 @@ a:hover{
     margin-bottom: 15px;
 }
 #header{
+    position: fixed;
     height: 70px;
+    width: 100%;
     padding-top: 10px;
     border-bottom: 2px solid purple;
 }
 .items img{
     height: 230px;
     width: 230px;
-}
-.contact_p{
-    color: white;
-    font-size: 26px;
 }
