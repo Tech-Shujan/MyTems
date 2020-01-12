@@ -26,6 +26,11 @@ a:hover{
 #contact{
     margin-top: 125px;
 }
+.items p{
+    margin-top: 20px;
+    font-weight: bold;
+    font-size: 16px;
+}
 #contact img{
     height: 40px;
     margin-right: 50px;
